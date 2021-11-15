@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="#">
         <img src={ pizza } width="30" height="30" className="d-inline-block align-top" alt=""/>
-         <b>NAME's Dollar Pizza</b>
+         <b>Sunita's Dollar Pizza</b>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -20,7 +20,7 @@ function Navbar() {
             <a class="nav-link" href="#">Order</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About Us</a>
+            <a class="nav-link" href="#">Contact Us</a>
           </li>
         </ul>
       </div>
